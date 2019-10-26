@@ -1,5 +1,6 @@
 # Kotlin-Capstone-Project
 
+[![BCH compliance](https://bettercodehub.com/edge/badge/HarshCasper/Kotlin-Capstone-Project?branch=master)](https://bettercodehub.com/)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/94c1617016134c76b8607cdb8b07f3d2)](https://www.codacy.com/manual/HarshCasper/Kotlin-Capstone-Project?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=HarshCasper/Kotlin-Capstone-Project&amp;utm_campaign=Badge_Grade)
 
 ## About the Course
